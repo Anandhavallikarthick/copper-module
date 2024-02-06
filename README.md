@@ -1,4 +1,3 @@
-# Industrial copper-module:
 # Industrial Copper Modeling
 
 **Introduction**
